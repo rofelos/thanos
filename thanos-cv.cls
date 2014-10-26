@@ -82,8 +82,8 @@
       \fontsize{14pt}{24pt}\color{header}%
       \thinfont #3%
       };
-      \node[inner sep=0pt] (whitehead) at (-3.55,-3.61)
-    {\includegraphics[width=.38\textwidth]{photo.JPG}};  %%%Photo position, size and directory
+      \node[inner sep=0pt] (whitehead) at (-3.55,-3.1)
+    {\includegraphics[width=.38\textwidth]{photo.jpg}};  %%%Photo position, size and directory
    
   \end{tikzpicture}
   \vspace{2.5cm}
